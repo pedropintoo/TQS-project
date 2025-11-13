@@ -1,4 +1,4 @@
-# 3ano/2semestre/TQS/TQS-project-2
+# 3ano/2semestre/TQS/TQS-project
 
 # Nota: 19
 
